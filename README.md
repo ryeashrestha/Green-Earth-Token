@@ -1,4 +1,4 @@
-# 🌱 Green-Earth-Token (GET)
+# Green-Earth-Token (GET)
 
 **Green Earth Token (GET)** is a reward-earning application that motivates users to **restore the planet** through sustainable living. It builds an **eco-conscious community** powered by **blockchain technology**, where users are rewarded for making green choices.
 
